@@ -11,7 +11,7 @@
     height: 100px;
 }
 
-.cabecera div ul{
+.menu ul{
     width: 260px;
     display: flex;
     justify-content: space-between;
